@@ -26,3 +26,11 @@ Obviously, I recommend looking at the source code before running anything from t
 ![Alt text](/Screenshots/Tab%20-%2003%20-%20Quality%20attributes.png "Tab - Quality attributes")
 
 
+### Tab Risks
+
+![Alt text](/Screenshots/Tab%20-%2004%20-%20Risks.png "Tab - Risks")
+
+
+### Tab Prioritzed risks
+
+![Alt text](/Screenshots/Tab%20-%2005%20-%20Prioritzed%20risks.png "Tab - Prioritzed risks")
