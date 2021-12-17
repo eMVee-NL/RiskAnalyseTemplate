@@ -11,26 +11,26 @@ Obviously, I recommend looking at the source code before running anything from t
 ## Usage
 
 ### Tab Information
+When opening the file, the "Information" tab will open. A project or application name can be entered at the top.
+On the left, names can be entered next to the roles. These are copied to the Risks tab so that they can enter a score per risk that is linked to their name.
 ![Alt text](/Screenshots/Tab%20-%2001%20-%20Information.png "Tab - Information")
 
 
 ### Tab Risk matrix
-
+The "Risk matrix" tab indicates how risks can be classified based on impact and likelihood. Examples are given of impact in terms of costs or how often and quickly something can occur, for example. These may differ per organization. So feel free to adjust them to the values within your own organization. The matrix has been drawn up so that risks can be prioritized. Keep this tab in mind when running a risk analysis session so that you can use it as a resource.
 ![Alt text](/Screenshots/Tab%20-%2002%20-%20Risk%20matrix.png "Tab - Risk matrix")
 
 
-
-
 ### Tab Quality attributes
-
+I have added the tab "Quality attributes" based on TMap® (Test Management Approach) in this document, because quality attributes can be tested with this method and test techniques. In this way, a certain risk or user story can be tested in a structured way in a project. This is beneficial to guarantee the quality of a system. This tab is for informational purposes only, so you can select a proper test technique.
 ![Alt text](/Screenshots/Tab%20-%2003%20-%20Quality%20attributes.png "Tab - Quality attributes")
 
 
 ### Tab Risks
-
+In the "Risks" tab, risks can be entered with the associated cause and a possible consequence. Each participant can then enter a value for the impact and likelihood per risk. Based on this data, an average value is obtained for the risk classification. In this tab you can indicate which user story and which quality attribute can be associated with a risk.
 ![Alt text](/Screenshots/Tab%20-%2004%20-%20Risks.png "Tab - Risks")
 
 
-### Tab Prioritzed risks
-
-![Alt text](/Screenshots/Tab%20-%2005%20-%20Prioritzed%20risks.png "Tab - Prioritzed risks")
+### Tab Prioritized risks
+The last tab "Prioritized risks" will initially be empty. On the right side of the tab is the "Prioritize risks" button. When clicked on this, the VBA code will place the risks in the correct order on this tab. A mitigating measure can also be included here and a residual risk can be indicated.
+![Alt text](/Screenshots/Tab%20-%2005%20-%20Prioritzed%20risks.png "Tab - Prioritized risks")
